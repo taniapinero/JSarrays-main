@@ -1,0 +1,46 @@
+.container{
+    width: 50%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color:aliceblue;
+  
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+table,td{
+    border-collapse:collapse ;
+    border: 1px dotted darkorange;
+    background-color: bisque;
+
+}
+table{
+width: 40%;
+margin: auto;
+
+}
+td{
+    padding: 25px;
+    text-align: center;
+}
+p,h2{
+text-align: center;}
+
+.cuadro{
+    width: 75px;
+    height: 75px;
+    background-color: aqua;
+}
+.quitarFondo{
+    background-color: white;
+}
+#boton{
+    padding: 25px;
+}
+img{
+    max-width: 50%;
+}
